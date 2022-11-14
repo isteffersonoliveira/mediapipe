@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-import  pafy
+import pafy
 
 
 url = "https://www.youtube.com/watch?v=xpRgR-tZEpk"
